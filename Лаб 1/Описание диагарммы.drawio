@@ -1,0 +1,85 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Страница — 1" id="_0ywGbfSmmxVeIDnBZbz">
+    <mxGraphModel dx="472" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LD3THkzcmjmdP_G8iB0D-92" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="630" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="LD3THkzcmjmdP_G8iB0D-93" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LD3THkzcmjmdP_G8iB0D-92">
+          <mxGeometry width="630" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="LD3THkzcmjmdP_G8iB0D-94" value="Взаимодейстиве клиента с доставкой" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LD3THkzcmjmdP_G8iB0D-93">
+          <mxGeometry width="630" height="65" as="geometry">
+            <mxRectangle width="630" height="65" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LD3THkzcmjmdP_G8iB0D-95" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LD3THkzcmjmdP_G8iB0D-92">
+          <mxGeometry y="65" width="630" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="LD3THkzcmjmdP_G8iB0D-96" value="ID:1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="LD3THkzcmjmdP_G8iB0D-95">
+          <mxGeometry width="630" height="64" as="geometry">
+            <mxRectangle width="630" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LD3THkzcmjmdP_G8iB0D-97" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0;align=left;" vertex="1" parent="LD3THkzcmjmdP_G8iB0D-92">
+          <mxGeometry y="129" width="630" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="LD3THkzcmjmdP_G8iB0D-98" value="&lt;u&gt;&lt;b&gt;Краткое описание:&lt;/b&gt;&lt;/u&gt;&lt;div&gt;Диаграмма иллюстрирует процесс взаимодействия клиента с доставкой продуктов, показывая основыне действия.&amp;nbsp;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="LD3THkzcmjmdP_G8iB0D-97">
+          <mxGeometry width="630" height="64" as="geometry">
+            <mxRectangle width="630" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LD3THkzcmjmdP_G8iB0D-99" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LD3THkzcmjmdP_G8iB0D-92">
+          <mxGeometry y="193" width="630" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="LD3THkzcmjmdP_G8iB0D-100" value="Главные актёры:&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;-Заказчик(Клиент)&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontStyle=5" vertex="1" parent="LD3THkzcmjmdP_G8iB0D-99">
+          <mxGeometry width="630" height="65" as="geometry">
+            <mxRectangle width="630" height="65" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LD3THkzcmjmdP_G8iB0D-101" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="LD3THkzcmjmdP_G8iB0D-92">
+          <mxGeometry y="258" width="630" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="LD3THkzcmjmdP_G8iB0D-102" value="Второстепенные актёры:&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;-Доставка&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;-Курьер&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontStyle=5" vertex="1" parent="LD3THkzcmjmdP_G8iB0D-101">
+          <mxGeometry width="630" height="64" as="geometry">
+            <mxRectangle width="630" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LD3THkzcmjmdP_G8iB0D-103" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LD3THkzcmjmdP_G8iB0D-92">
+          <mxGeometry y="322" width="630" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="LD3THkzcmjmdP_G8iB0D-104" value="Предусловия:&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Пользователь должен установить приложение доставки или открыт сайт доставки и зарегестрироваться.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontStyle=5" vertex="1" parent="LD3THkzcmjmdP_G8iB0D-103">
+          <mxGeometry width="630" height="65" as="geometry">
+            <mxRectangle width="630" height="65" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LD3THkzcmjmdP_G8iB0D-105" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LD3THkzcmjmdP_G8iB0D-92">
+          <mxGeometry y="387" width="630" height="233" as="geometry" />
+        </mxCell>
+        <mxCell id="LD3THkzcmjmdP_G8iB0D-106" value="Основной поток:&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Заказчик открывает сайт или приложение&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Просматривает доступные магазины&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Просматривает имеющиеся продукты&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Выбирает продукты и добавляет их в корзину&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Заказчик подтверждает или отменяет заказ&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;В случае подтверждения выбирает способ оплаты&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Доставка обрабатывает заказ и оповещает курьера&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Сотрудник магазина собирает заказ&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Курьер забирает заказ&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Курьер доставляет заказ заказчику&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontStyle=5" vertex="1" parent="LD3THkzcmjmdP_G8iB0D-105">
+          <mxGeometry width="630" height="233" as="geometry">
+            <mxRectangle width="630" height="233" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LD3THkzcmjmdP_G8iB0D-107" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LD3THkzcmjmdP_G8iB0D-92">
+          <mxGeometry y="620" width="630" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="LD3THkzcmjmdP_G8iB0D-108" value="Постусловия:&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Если все шаги успешно выполняются, то заказчик получает свой заказ&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontStyle=5" vertex="1" parent="LD3THkzcmjmdP_G8iB0D-107">
+          <mxGeometry width="630" height="64" as="geometry">
+            <mxRectangle width="630" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LD3THkzcmjmdP_G8iB0D-109" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LD3THkzcmjmdP_G8iB0D-92">
+          <mxGeometry y="684" width="630" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="LD3THkzcmjmdP_G8iB0D-110" value="Алтернативный поток:&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Если выбранный магазин недоступен, заказчик уведомляется и получает предложеие других магазинов.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Если выбранного продукта нет, приложение или сайт уведомляет заказчика и предлогает другие, похожие варианты.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Если у заказчика возникают проблемы с оплатой, ему предлогается другой способ оплаты.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;В случае не прохода оплаты заказ отменяется.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontStyle=5" vertex="1" parent="LD3THkzcmjmdP_G8iB0D-109">
+          <mxGeometry width="630" height="136" as="geometry">
+            <mxRectangle width="630" height="136" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
